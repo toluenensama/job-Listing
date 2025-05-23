@@ -91,7 +91,7 @@ export function Header() {
           Clear
         </div>
       </div>
-      <div className="mt-40 lg:mt-30 mx-6 lg:w-4xl lg:mx-auto space-y-12 ">
+      <div className="my-40 lg:my-30 mx-6 lg:w-4xl lg:mx-auto space-y-12 ">
         {filtered.map((job) => (
           <JobCard jobData={job} key={job.id} />
         ))}
