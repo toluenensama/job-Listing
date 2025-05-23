@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL hereGitHub Repository[https://job-listing-frontend-mentor.netlify.app/](https://job-listing-frontend-mentor.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/toluenensama/job-Listing)
+- Live Site URL: [https://job-listing-frontend-mentor.netlify.app/](https://job-listing-frontend-mentor.netlify.app/)
 
 ## My process
 
