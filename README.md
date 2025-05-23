@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL hereGitHub Repository[https://job-listing-frontend-mentor.netlify.app/](https://job-listing-frontend-mentor.netlify.app/)
 
 ## My process
 
@@ -255,6 +254,6 @@ The filtering is done by returning all if the filtertag list is empty else it re
 ## Author
 
 - Website - [Toluene PortFolio](https://www.toluene-portfolio.vercel.app)
-- Frontend Mentor - [@toluenesama](https://www.frontendmentor.io/profile/toluenesama)
+- Frontend Mentor - [@toluenensama](https://www.frontendmentor.io/profile/toluenensama)
 
 
