@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: League-Bold;
+  src: url(/fonts/LeagueSpartan-Bold.ttf);
+}
+
+@font-face {
+  font-family: League-Medium;
+  src: url(/fonts/LeagueSpartan-Medium.ttf);
+}
+
+@theme {
+
+  --color-primary: hsl(180, 29%, 50%);
+  --color-background: hsl(180, 52%, 96%);
+  --color-tablets: hsl(180, 31%, 95%);
+  --color-secondary: hsl(180, 8%, 52%);
+  --color-tertiary: hsl(180, 14%, 20%);
+  --font-league-bold: League-Bold;
+  --font-league-medium: League-Medium;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-fade-in: fade-in 0.7s ease-out fowards;
+  --animate-fade-in-delay-1: fade-in 0.7s ease-out 0.2s fowards;
+  --animate-fade-in-delay-2: fade-in 0.7s ease-out 0.4s fowards;
+  --animate-fade-in-delay-3: fade-in 0.7s ease-out 0.6s fowards;
+  --animate-fade-in-delay-4: fade-in 0.7s ease-out 0.8s fowards;
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+
+
+  @keyframes fade-in {
+    form {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+
+}
